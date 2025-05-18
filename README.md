@@ -68,17 +68,10 @@ pip install -r requirements.txt
 - seaborn
 - jupyter
 
-## Améliorations Possibles
-
-1. Collecte de données supplémentaires
-2. Ajout de nouvelles features (ex: données historiques)
-3. Test d'autres algorithmes d'apprentissage
-4. Optimisation des hyperparamètres
-5. Intégration de données en temps réel
-
 ## Auteurs et Contribution
 
-[Vos noms et contacts]
+- KODJO TAMEGNON ELISEE HENOC @henoceli3
+- N'ZI CEDRIC
 
 ## Licence
 
