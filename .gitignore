@@ -1,0 +1,15 @@
+# Fichiers de modèles sauvegardés
+*.joblib
+*.pkl
+*.sav
+*.h5
+*.model
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dossiers d'environnement virtuel
+venv/
+env/
