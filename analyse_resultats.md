@@ -99,8 +99,3 @@ Les features les plus influentes sont :
    - Performance modérée (R² = 0.533)
    - Marge d'amélioration possible
    - Certains facteurs peuvent être manquants
-
-4. **Recommandations**
-   - Collecter plus de données pour améliorer la précision
-   - Considérer l'ajout de nouvelles variables
-   - Explorer des approches d'ensemble plus sophistiquées
