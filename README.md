@@ -74,5 +74,3 @@ pip install -r requirements.txt
 - N'ZI CEDRIC
 
 ## Licence
-
-[Type de licence]
